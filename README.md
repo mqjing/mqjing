@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+- 明脸偏才的前端程序员一枚
+
+- 深知技术还有很长的一段路要走，也一直在路上 🚗
+
+- 目前在一家软件公司工作，同时在华东师范大学读非全日制研究生 🔭
+
+- 斜杠就完事了 ⚡
+
+
+
+
+
 <!--
 **mqjing/mqjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
