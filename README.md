@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2629713/1618502334417-11c649ed-55ed-438c-b333-6d55711c6444.png)
+![](https://cdn.nlark.com/yuque/0/2021/png/2629713/1618502997146-60f6ee4b-da3d-475f-bc93-4d778ba79107.png)
 
 - 明脸偏才的前端程序员一枚
 
